@@ -4,5 +4,5 @@ import {toast} from 'react-toastify'
     toast[type](message)
 }
 
-const API_url = "http://localhost:8080";
+const API_url = "https://taskify-75hz.onrender.com";
 export {API_url, Notify} 
